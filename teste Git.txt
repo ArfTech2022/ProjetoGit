@@ -1,2 +1,5 @@
 Não tinha nada
 Agora tem alguma coisa
+coloca mais coiosas aí
+para o git entender que
+você está modificando o arquivo
